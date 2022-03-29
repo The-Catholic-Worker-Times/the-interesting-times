@@ -77,6 +77,10 @@ q {
   font-size: .85em;
   margin-left:-1px;
   margin-bottom: 15px;
+  background: url(https://static3.depositphotos.com/1004973/190/i/380/depositphotos_1907341-stock-photo-grunge-old-paper.jpg?forcejpeg=true) no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .item {
   display: block;
