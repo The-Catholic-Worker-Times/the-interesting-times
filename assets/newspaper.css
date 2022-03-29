@@ -2,6 +2,8 @@
   float: left;
   width: 25%;
   padding: 10px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 .heroColumn {
   float: left;
@@ -28,6 +30,10 @@
 body {
   font-family: 'Georgia', serif;
   margin: 0;
+  background: url(https://static3.depositphotos.com/1004973/190/i/380/depositphotos_1907341-stock-photo-grunge-old-paper.jpg?forcejpeg=true) no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 p {
   text-align: justify;
