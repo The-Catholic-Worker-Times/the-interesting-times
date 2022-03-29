@@ -74,6 +74,10 @@ a:hover {
   font-size: 16px;
   padding: 50px;
   margin-top: 50px;
+  background: url(https://static3.depositphotos.com/1004973/190/i/380/depositphotos_1907341-stock-photo-grunge-old-paper.jpg?forcejpeg=true) no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;	
 }
 
 .footer .footer-left,
@@ -178,7 +182,7 @@ a:hover {
 }
 
 .footer h2 {
-  color: #ffffff;
+  color: #000;
   font-size: 36px;
   font-weight: normal;
   margin: 0;
