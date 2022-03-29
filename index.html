@@ -286,49 +286,6 @@ layout: default
 
 		</footer>
 	
-	<p class="love">Made with <i class="fa fa-heart"></i> by <a href="https://alvaroduran.com">Álvaro</a></p>
+	<p class="love">Made with <i class="fa fa-heart"></i> by <a href="https://alvaroduran.com">Manhattan College</a></p>
 
 </html>
-
-<!-- HERO SECTION -->
-<section class="hero">
-  <!-- LEFT HERO -->
-  <div class="sideHeroColumn">
-    {% for item in site.heros %}
-      {% if item.position == 'left' %}
-        {% include article.html item=item %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <!-- HERO -->
-  <div class="heroColumn">
-    {% for item in site.heros %}
-      {% if item.position == 'center' %}
-        {% include article.html item=item %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <!-- RIGHT HERO -->
-  <div class="sideHeroColumn">
-    {% for item in site.heros %}
-      {% if item.position == 'right' %}
-        {% include article.html item=item %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-</section>
-
-<!-- MASONRY SECTION -->
-<section class="masonry">
-  {% for item in site.columns %}
-    <div class="item">
-      {% include article.html item=item %}
-    </div>
-  {% endfor %}
-</section>
