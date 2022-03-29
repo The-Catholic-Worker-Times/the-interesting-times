@@ -95,6 +95,10 @@ q {
 /*   if using inline-block, doesn't requre min-height or height but columns don't stretch as well vertically */
   min-height: 100%;
   height:100%;
+  background: url(https://static3.depositphotos.com/1004973/190/i/380/depositphotos_1907341-stock-photo-grunge-old-paper.jpg?forcejpeg=true) no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* Corrects for the color of the footer */
