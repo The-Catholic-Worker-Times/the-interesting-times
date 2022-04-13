@@ -21,3 +21,12 @@ Copyright (C) 2019 Alvaro Duran, https://www.alvaroduran.com
 4. Make necessary changes, commit, push and open a pull request on GitHub.
 
 Thank you!
+
+### Topics
+
+- Homelessness 
+- Terriost Attack
+- Lasallian compliance with campus social movements
+- Disabled accessibility
+   - In LEO two classes not accessible so they're being shut down
+- Picture of dorothy related to her persona
