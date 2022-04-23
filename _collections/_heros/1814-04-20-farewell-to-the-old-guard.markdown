@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Farewell to the Old Guard"
-author: Napoleon
-date:   1814-04-20 20:20:35 +0200
-image: https://www.historyhit.com/wp-content/uploads/2016/11/napoleon2.jpg
+title:  "Dorothy Day"
+author: Student
+date:   
+image: 
 position: left
-image_caption: The Emperor of France and would-be ruler of Europe said goodbye to the Old Guard after his failed invasion of Russia and defeat by the Allies.
+image_caption: 
 ---
-Soldiers of my Old Guard: I bid you farewell. For twenty years I have constantly accompanied you on the road to honour and glory. In these latter times, as in the days of our prosperity, you have invariably been models of courage and fidelity. With men such as you our cause could not be lost; but the war would have been interminable; it would have been civil war, and that would have entailed deeper misfortunes on France.
+Dorothy Day, a leader in the Catholic Worker Movement, an anarchist and a pacifist. Her disdain for violence, war, and order was evident throughout the way she lived. My art aims to capture the disgust she embodies when around people who perpetuate violence and order. The policing institution is a large part of this. In our society, it is normalized for police to carry around guns with them wherever they go for “protection” and to maintain order. However, they are only protecting themselves when these guns are used to kill innocent people who are discriminated against, all too many times. Protecting order often means protecting the status quo. Day helped hundreds and hundreds of people through hospitality houses, which were mere chaos, proving that order is not the only way to get something done.
+	The current state of war in our society, I believe, is something Dorothy Day would detest. The ongoing war in Ukraine proves that violence, war, and order are still highly prevalent in our world. Despite the resistance and efforts made by Day and the Catholic Worker Movement, violence and war repeats itself time and time again, seemingly unavoidable in our society. Civil disobedience and resistance to the order imposed upon us by society is the only way to move past the violence that keeps consuming us. 
 
-I have sacrificed all of my interests to those of the country.
-
-I go, but you, my friends, will continue to serve France. Her happiness was my only thought. It will still be the object of my wishes. Do not regret my fate; if I have consented to survive, it is to serve your glory. I intend to write the history of the great achievements we have performed together. Adieu, my friends. Would I could press you all to my heart.
 
 <!--more-->
