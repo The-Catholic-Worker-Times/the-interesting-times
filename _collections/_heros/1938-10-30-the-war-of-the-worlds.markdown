@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The War of the Worlds"
-author: H. G. Wells
-date:   1938-10-30 20:20:35 +0200
+title:  "Dorothy Day"
+author: Manhattan College Student
+date:   
 image: 
 image_caption: The episode became famous for allegedly causing panic among its listening audience, though the scale of that panic is disputed, as the program had relatively few listeners.
 position: center
